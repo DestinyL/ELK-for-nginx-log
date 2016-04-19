@@ -21,3 +21,5 @@ Solution can be:
 
 - Use `chmod` to modify nginx log file privilege. E.g. `chmod 664 access.log`
 - Modify `/etc/default/logstash` => `LS_USER` field to change logstash user, e.g. `root`
+
+# [More detail on my blog here.](http://blog.yunfei.me/blog/ELK-stack.html)
